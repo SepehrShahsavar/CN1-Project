@@ -1,0 +1,9 @@
+C:\Users\Sepehr Shahsavar\source\repos\CN1-Prj\CN1-Prj\bin\Debug\CN1-Prj.exe.config
+C:\Users\Sepehr Shahsavar\source\repos\CN1-Prj\CN1-Prj\bin\Debug\CN1-Prj.exe
+C:\Users\Sepehr Shahsavar\source\repos\CN1-Prj\CN1-Prj\bin\Debug\CN1-Prj.pdb
+C:\Users\Sepehr Shahsavar\source\repos\CN1-Prj\CN1-Prj\obj\Debug\CN1-Prj.csprojAssemblyReference.cache
+C:\Users\Sepehr Shahsavar\source\repos\CN1-Prj\CN1-Prj\obj\Debug\CN1_Prj.Form1.resources
+C:\Users\Sepehr Shahsavar\source\repos\CN1-Prj\CN1-Prj\obj\Debug\CN1_Prj.Properties.Resources.resources
+C:\Users\Sepehr Shahsavar\source\repos\CN1-Prj\CN1-Prj\obj\Debug\CN1-Prj.csproj.GenerateResource.cache
+C:\Users\Sepehr Shahsavar\source\repos\CN1-Prj\CN1-Prj\obj\Debug\CN1-Prj.exe
+C:\Users\Sepehr Shahsavar\source\repos\CN1-Prj\CN1-Prj\obj\Debug\CN1-Prj.pdb
